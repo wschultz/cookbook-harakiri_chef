@@ -2,7 +2,7 @@
 # Cookbook Name:: harakiri_chef
 # Recipe:: default
 #
-# Copyright 2012, Strands Labs
+# Copyright 2012, Wil Schultz
 #
 
 case node['platform']

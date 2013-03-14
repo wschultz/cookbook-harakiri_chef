@@ -1,5 +1,5 @@
-maintainer       "Strands Labs"
-maintainer_email "sysadmin@strands.com"
+maintainer       "Wil Schultz"
+maintainer_email "wschultz@bsdboy.com"
 license          ""
 description      "Installs/Configures harakiri_chef"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
